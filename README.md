@@ -5,3 +5,4 @@ Beautiful descriptions:
 - BBL2R2R1L2BL1B
 - BL1L1NR1L2L1
 - R2L1L2B
+- L2L1L1L2
